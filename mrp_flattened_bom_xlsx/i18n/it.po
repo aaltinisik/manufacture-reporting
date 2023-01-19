@@ -6,15 +6,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 12.0\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2021-03-25 15:46+0000\n"
-"Last-Translator: Marco Calcagni <mcalcagni@dinamicheaziendali.it>\n"
+"PO-Revision-Date: 2023-01-18 12:04+0000\n"
+"Last-Translator: Francesco Foresti <francesco.foresti@ooops404.com>\n"
 "Language-Team: none\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.3.2\n"
+"X-Generator: Weblate 4.14.1\n"
 
 #. module: mrp_flattened_bom_xlsx
 #: code:addons/mrp_flattened_bom_xlsx/report/flattened_bom_xlsx.py:48
@@ -81,10 +81,9 @@ msgstr "Riferimento"
 #: code:addons/mrp_flattened_bom_xlsx/report/flattened_bom_xlsx.py:52
 #, python-format
 msgid "Unit of Measure"
-msgstr "Unità di Misura"
+msgstr "Unità di misura"
 
 #. module: mrp_flattened_bom_xlsx
 #: model:ir.model,name:mrp_flattened_bom_xlsx.model_report_mrp_flattened_bom_xlsx_flattened_bom_xlsx
-#, fuzzy
 msgid "report.mrp_flattened_bom_xlsx.flattened_bom_xlsx"
 msgstr "report.mrp_flattened_bom_xlsx.flattened_bom_xlsx"
